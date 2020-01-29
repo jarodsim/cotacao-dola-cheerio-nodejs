@@ -1,0 +1,51 @@
+
+------------------------------------------------
+DATA 28 / 1 / 2020 
+HORA 12:49:52 
+Valor em dólar equivalente a 1 real: 4,21R$ 
+ 
+------------------------------------------------
+DATA 28 / 1 / 2020 
+HORA 12:50:7 
+Valor em dólar equivalente a 1 real: 4,21R$ 
+ 
+------------------------------------------------
+DATA 28 / 1 / 2020 
+HORA 16:50:40 
+Valor em dólar equivalente a 1 real: 4,19R$ 
+ 
+------------------------------------------------
+DATA 28 / 1 / 2020 
+HORA 17:2:31 
+Valor em dólar equivalente a 1 real: 4,19R$ 
+ 
+------------------------------------------------
+DATA 28 / 1 / 2020 
+HORA 17:4:46 
+Valor em dólar equivalente a 1 real: 4,19R$ 
+ 
+------------------------------------------------
+DATA 28 / 1 / 2020 
+HORA 17:6:10 
+Valor em dólar equivalente a 1 real: 4,19R$ 
+ 
+------------------------------------------------
+DATA 28 / 1 / 2020 
+HORA 17:8:2 
+Valor em dólar equivalente a 1 real: 4,19R$ 
+ 
+------------------------------------------------
+DATA 28 / 1 / 2020 
+HORA 20:54:11 
+Valor em dólar equivalente a 1 real: 4,19R$ 
+ 
+------------------------------------------------
+DATA 29 / 1 / 2020 
+HORA 2:27:2 
+Valor em dólar equivalente a 1 real: 4,19R$ 
+ 
+------------------------------------------------
+DATA 29 / 1 / 2020 
+HORA 13:19:57 
+Valor em dólar equivalente a 1 real: 4,20R$ 
+ 
