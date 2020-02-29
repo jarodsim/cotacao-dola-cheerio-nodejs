@@ -4,12 +4,15 @@
 
 [Site](https://cheerio.js.org/)
 
-# Passos para a instalação
+## Passos para a instalação
 
 * ``` npm init ```
 
 * ``` npm install cheerio ```
 
+### Para executar
+
+* ``` node dolar ```
 
 
 
