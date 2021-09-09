@@ -104,3 +104,13 @@ DATA 28 / 2 / 2020
 HORA 23:22:11 
 Valor em dólar equivalente a 1 real: 4,47R$ 
  
+------------------------------------------------
+DATA 6 / 4 / 2020 
+HORA 15:46:1 
+Valor em dólar equivalente a 1 real: 5,25R$ 
+ 
+------------------------------------------------
+DATA 9 / 9 / 2021 
+HORA 17:43:44 
+Valor em dólar equivalente a 1 real: 5,22R$ 
+ 
